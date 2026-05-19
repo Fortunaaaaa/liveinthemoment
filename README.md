@@ -1,30 +1,32 @@
-# ✦ Interlude · 人生可视化
+# ✦ Between · 人生可视化
 
 > 人生被切割成一个个节点——毕业、工作、买房、稳定  
 > 好似只有等到下一个节点到来，才有资格做想做的事  
 > 但打卡只是瞬间，**点与点之间，才是生活。**
 
-**Interlude** 是一个把一个人的一生画成星座的网站。  
+**Between** 是一个把一个人的一生画成星座的网站。  
 从宇宙中最亮的一颗星出发，随着镜头拉近，逐渐展开为生与死、各个人生阶段、乃至每一条当下的记录。  
 每一次记录，都是一颗亮起来的星——让原本空洞的人生线，慢慢变成只属于你自己的星座。
 
 ---
 
-## ✨ 在线演示
-
-> 部署到 GitHub Pages 后粘贴你的链接，例如：  
-> **[interlude.your-username.github.io](https://your-username.github.io/interlude)**
-
----
 
 ## 🖼 截图预览
+|主页面
+<img width="3120" height="1842" alt="image" src="https://github.com/user-attachments/assets/c397c9a6-150a-4422-b4ef-d7b63fc5ccec" />
 
-<!-- 建议放 2–3 张截图，宽度 800px 以上效果最好 -->
-<!-- 例如：![宇宙视角](screenshots/cosmic.png) -->
+| 宇宙视角 
+<img width="3120" height="1842" alt="image" src="https://github.com/user-attachments/assets/b4731bf6-f19e-45fc-a233-d5b4bf501671" />
 
-| 宇宙视角 | 人生星座 | 每月微观 |
-|:---:|:---:|:---:|
-| *(截图占位)* | *(截图占位)* | *(截图占位)* |
+
+| 每月微观 
+<img width="3120" height="1842" alt="image" src="https://github.com/user-attachments/assets/1dc44f8b-0d6b-41c0-8e54-993b6d85229a" />
+已经点亮的日期说明当天有记录
+<img width="3120" height="1842" alt="image" src="https://github.com/user-attachments/assets/4121fa2f-f0f7-4f4c-9bd6-048fb6966a66" />
+放大后横向时间轴视角
+<img width="3120" height="1842" alt="image" src="https://github.com/user-attachments/assets/1d585a47-51ac-411a-b7fa-192c85136b73" />
+每日的记录
+
 
 ---
 
@@ -138,16 +140,8 @@ interlude/
 
 ---
 
-## 📄 开源协议
-
-[MIT License](LICENSE) — 自由使用、修改、分发。
-
----
-
 <div align="center">
 
 **每一颗点亮的星，都是你在好好地过自己的生活。**
-
-*Made with ✦ by [your-name](https://github.com/your-username)*
 
 </div>
